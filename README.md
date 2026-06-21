@@ -39,7 +39,8 @@ https://github.com/muhammadfaizanmemon098-byte/Music-Player
 
 ##  Screenshot
 
-_Add a screenshot of the Music Player here._
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/425fcd12-6f4d-4047-9c15-218b35cc7424" />
+
 
 ##  Getting Started
 
