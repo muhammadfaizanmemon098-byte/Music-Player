@@ -43,8 +43,9 @@ Music-Player/
 
 ##  Screenshot
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42f2096a-2e7e-4946-8e56-46da44bf98f8" />
-
+<p align="center">
+  <img width="1531" alt="Music Player Screenshot" src="https://github.com/user-attachments/assets/6f23339e-77a0-4ac0-aeed-3fdbfc9b3fec" />
+</p>
 
 ##  Getting Started
 
