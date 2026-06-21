@@ -1,23 +1,23 @@
-# 🎵 Music Player
+#  Music Player
 
 A simple and responsive Music Player built using HTML, CSS, and JavaScript. It allows users to play, pause, switch between songs, and enjoy a clean music player interface directly in the browser.
 
-## 🚀 Features
+##  Features
 
-- 🎵 Play and Pause songs
-- ⏮️ Previous and Next track
-- 📂 Multiple songs support
-- 📱 Responsive design
-- 🎨 Clean and modern user interface
-- ⚡ Smooth music playback
+-  Play and Pause songs
+-  Previous and Next track
+-  Multiple songs support
+-  Responsive design
+-  Clean and modern user interface
+-  Smooth music playback
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Music-Player/
@@ -33,25 +33,20 @@ Music-Player/
 └── cover3.jpg
 ```
 
-## 🌐 Live Demo
+##  Live Demo
 
 🔗 https://muhammadfaizanmemon098-byte.github.io/Music-Player/
 
-## 💻 GitHub Repository
+##  GitHub Repository
 
 🔗 https://github.com/muhammadfaizanmemon098-byte/Music-Player
 
-## 📸 Screenshot
+##  Screenshot
 
-> Add a screenshot of your Music Player here after uploading it.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42f2096a-2e7e-4946-8e56-46da44bf98f8" />
 
-Example:
 
-```html
-<img src="YOUR_SCREENSHOT_LINK_HERE" width="100%" alt="Music Player Screenshot">
-```
-
-## ⚙️ Getting Started
+##  Getting Started
 
 ### Clone the repository
 
@@ -65,7 +60,7 @@ Navigate to the project folder and open `index.html` in your browser.
 
 No additional installation or dependencies are required.
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 This project helped me improve my understanding of:
 
@@ -76,12 +71,10 @@ This project helped me improve my understanding of:
 - Git & GitHub
 - GitHub Pages Deployment
 
-## 👨‍💻 Author
+##  Author
 
 **Muhammad Faizan Memon**
 
 - GitHub: https://github.com/muhammadfaizanmemon098-byte
 
----
-
-⭐ If you like this project, don't forget to star the repository!
+ If you like this project, don't forget to star the repository!
