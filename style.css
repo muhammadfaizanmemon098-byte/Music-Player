@@ -1,0 +1,89 @@
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        .player {
+            background: white;
+            padding: 30px;
+            width: 350px;
+            object-fit: cover;
+            text-align: center;
+            box-shadow: 0 10px 530px rgba(0, 0, 0, 0.2);
+        }
+        
+        #cover {
+            width: 250px;
+            height: 250px;
+            border-radius: 18px;
+            overflow: hidden;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35);
+        }
+        
+        #cover img {
+            width: 100%;
+            height: 100%;
+            object-position: center;
+        }
+        
+        .cover:hover {
+            transform: scale(1.05);
+            transition: 0.3s;
+        }
+        
+        button {
+            width: 60px;
+            height: 60px;
+            font-size: 20px;
+            padding: 10px 20px;
+            margin: 20px;
+            cursor: pointer;
+            border: none;
+            border-radius: 50%;
+            background: #4caf50;
+            color: white
+        }
+        
+        button:hover {
+            background-color: #4ca049;
+        }
+        
+        #progress {
+            width: 100%;
+        }
+        
+        #volume {
+            width: 100%;
+        }
+        
+        #playlist {
+            margin-top: 20px;
+            background: #f8f8f8;
+            border-radius: 10px;
+            padding: 10px;
+        }
+        
+        ul {
+            list-style: none;
+            padding: 0px;
+        }
+        
+        li {
+            padding: 10px;
+            cursor: pointer;
+        }
+        
+        li.active {
+            background: #4caf50;
+            color: white;
+            border-radius: 10px;
+        }
+        
+        li:hover {
+            background: #f0f0f0;
+        }
